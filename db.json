@@ -3,7 +3,7 @@
     {
       "id": 1,
       "category": "Animation",
-      "title": "Hotel Astoria Untertitel hier",
+      "title": "Hotel Astoria",
       "description": "This is the example text about the Bauhaus fabric displayed on this page. More to come.",
       "credits": "<br>Drehbuch</br> Alina Cyranek Regie Alina Cyranek und Falk Schuster, <br>Produktion</br> hug films GbR Alina Cyranek und Falk Schuster <br>Layout</br> Tim Romanowsky, AlexanderSchmidt, Falk Schuster <br>Animation</br> Julian Quitsch, Tim Romanowsky, Falk Schuster, Alexander Schmidt <br>Compositing und Grading</br> Julian Quitsch <br>Musik und Sound</br> Klangfee",
       "lenght": "28 Minuten",
@@ -12,7 +12,20 @@
       "thumbnail": "https://images.unsplash.com/photo-1617195737496-bc30194e3a19?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "image": "https://plus.unsplash.com/premium_photo-1675855542727-da00f9c19201?auto=format&fit=crop&q=80&w=2787&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
       "video": ""
-    }
+    },
+    {
+      "id": 2,
+      "category": "Animation",
+      "title": "Weiteres Projekt 2",
+      "description": "This is the example text about the Bauhaus fabric displayed on this page. More to come.",
+      "credits": "<br>Drehbuch</br> Alina Cyranek Regie Alina Cyranek und Falk Schuster, <br>Produktion</br> hug films GbR Alina Cyranek und Falk Schuster <br>Layout</br> Tim Romanowsky, AlexanderSchmidt, Falk Schuster <br>Animation</br> Julian Quitsch, Tim Romanowsky, Falk Schuster, Alexander Schmidt <br>Compositing und Grading</br> Julian Quitsch <br>Musik und Sound</br> Klangfee",
+      "lenght": "28 Minuten",
+      "year": "Animadok, 2020",
+      "link": "https://www.bauhaus-dessau.de/de/index.html",
+      "thumbnail": "https://images.unsplash.com/photo-1610847455028-9e55e62bac33?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "image": "https://plus.unsplash.com/premium_photo-1675855542727-da00f9c19201?auto=format&fit=crop&q=80&w=2787&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D", 
+      "video": ""
+    },
   ],
   "festivals": [
     {
