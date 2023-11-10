@@ -32,9 +32,7 @@
   ],
   "festivals": [
     {
-      "festivalA": "Filmfestival A",
-      "festivalB": "Filmfestival B",
-      "festivalC": "Filmfestival C"
+      "names": ["Filmfestival A","Filmfestival B", "Filmfestival C"]
     }
   ],
   "informations": [
