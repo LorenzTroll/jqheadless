@@ -48,8 +48,7 @@
   ],
   "festivals": [
     {
-      "name": ["Filmfestival A","Filmfestival B", "Filmfestival C"],
-      "link": ["https://www.dok-leipzig.de/","https://www.bmwk.de/Redaktion/DE/Wettbewerb/deutscher-wirtschaftsfilmpreis.html", "https://www.bambi.de/"]
+      "name": ["Filmfestival A","Filmfestival B", "Filmfestival C"]  
     }
   ],
   "informations": [
