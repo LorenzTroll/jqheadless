@@ -4,10 +4,10 @@
       "id": 1,
       "category": "Animation",
       "title": "Hotel Astoria",
-      "description": "Der animierte Dokumentarfilm 'Hotel Astoria' enthüllt die geheime Welt eines legendären Leipziger Hotels während der DDR-Ära. Zwischen Luxus und Mangelwirtschaft, wo Geschäftsleute, Politiker und sogar die Stasi sich trafen, erweckt der Film mit Archivmaterial und Animationen dieses historische Stück Leipzig zum Leben. Es ist eine Geschichte voller Widersprüche und persönlicher Erinnerungen, die die Vergangenheit auf faszinierende Weise zum Leben erweckt.",
-      "credits": "Drehbuch: Alina Cyranek Regie: Alina Cyranek & Falk Schuster Produktion: hug films Layout: Tim Romanowsky, Alexander Schmidt, Falk Schuster Animation: Julian Quitsch, Tim Romanowsky, Falk Schuster, Alexander Schmidt Compositing, Colorgrading: Julian Quitsch",
       "lenght": "28 Minuten",
       "year": "Animadok, 2020",
+      "description": "Der animierte Dokumentarfilm 'Hotel Astoria' enthüllt die geheime Welt eines legendären Leipziger Hotels während der DDR-Ära. Zwischen Luxus und Mangelwirtschaft, wo Geschäftsleute, Politiker und sogar die Stasi sich trafen, erweckt der Film mit Archivmaterial und Animationen dieses historische Stück Leipzig zum Leben. Es ist eine Geschichte voller Widersprüche und persönlicher Erinnerungen, die die Vergangenheit auf faszinierende Weise zum Leben erweckt.",
+      "credits": "Drehbuch: Alina Cyranek Regie: Alina Cyranek & Falk Schuster Produktion: hug films Layout: Tim Romanowsky, Alexander Schmidt, Falk Schuster Animation: Julian Quitsch, Tim Romanowsky, Falk Schuster, Alexander Schmidt Compositing, Colorgrading: Julian Quitsch",
       "thumbnail": "https://images.unsplash.com/photo-1617195737496-bc30194e3a19?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "image": "", 
       "video": "https://vimeo.com/868452195?dnt=1"
@@ -15,18 +15,17 @@
     {
       "id": 2,
       "category": "Realfilm",
-      "title": "Weiteres Projekt 2",
-      "description": "This is the example text about the Bauhaus fabric displayed on this page. More to come.",
-      "credits": "<br>Drehbuch</br> Alina Cyranek Regie Alina Cyranek und Falk Schuster, <br>Produktion</br> hug films GbR Alina Cyranek und Falk Schuster <br>Layout</br> Tim Romanowsky, AlexanderSchmidt, Falk Schuster <br>Animation</br> Julian Quitsch, Tim Romanowsky, Falk Schuster, Alexander Schmidt <br>Compositing und Grading</br> Julian Quitsch <br>Musik und Sound</br> Klangfee",
-      "lenght": "28 Minuten",
-      "year": "Animadok, 2020",
-      "link": "https://www.bauhaus-dessau.de/de/index.html",
+      "title": "Abgeordnetenhaus Berlin",
+      "lenght": "4:49 Minuten",
+      "year": "2017",
+      "description": "Ein Kurzfilm/Erklärfilm für das Abgeordnetenhaus Berlin. Das Abgeordnetenhaus kurz erklärt: was ist das Abgeordnetenhaus von Berlin eigentlich, was haben die Abgeordneten für Aufgaben – und warum Vögel kein Bier trinken sollten.",
+      "credits": "Autoren: Alexander Lahl und Max Mönch Regie, Layout, Animation: Falk Schuster Compositing und Digitale Animation: Julian Quitsch Musik und Sound: Hannes Schulze Produktion: Die Kulturingenieure Auftraggeber: Abgeordnetenhaus Berlin",
       "thumbnail": "https://images.unsplash.com/photo-1610847455028-9e55e62bac33?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
       "image": ["https://plus.unsplash.com/premium_photo-1675855542727-da00f9c19201?auto=format&fit=crop&q=80&w=2787&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
                 "https://images.unsplash.com/photo-1597694491574-740e696ce5dc?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
                 "https://images.unsplash.com/photo-1578950112813-a699da44bf23?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                 ],
-      "video": "https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4"
+      "video": "https://vimeo.com/868449137?dnt=1"
     },
         {
       "id": 3,
