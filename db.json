@@ -54,13 +54,11 @@
       "linkC": "https://www.bambi.de/"
     }
   ],
-  "informations": [
-    {
+  "informations": {
       "landingPage": "Hier ein Text",
       "aboutHeadline": "Hier eine Überschrift",
       "aboutText": "Hier ein weiterer Text",
       "awardHeadline": "Peise und Nominierungen",
       "awardText": "Beteiligung an zahlreichen Filmprojekten die schließlich Präsentationen, Nominierungen und Prämierungen auf Filmfestivals erfuhren. Hier eine Auswahl der Festivalauswertung aktueller Projekte."
     }
-  ]
 }
