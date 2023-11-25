@@ -92,7 +92,7 @@
       "lenght": "85 Minuten",
       "year": "Dokumentarfilm, in Produktion, 2023",
       "thumbnail": "https://julianquitsch.de/images/fassaden/fas_k1t_v02.webp",
-      "image": ["hhttps://julianquitsch.de/images/fassaden/fas_k3a_v03_01.webp",
+      "image": ["https://julianquitsch.de/images/fassaden/fas_k3a_v03_01.webp",
                 "https://julianquitsch.de/images/fassaden/fas_k3a_v03_02.webp",
                 "https://julianquitsch.de/images/fassaden/fas_platte_v02.webp"
                 ],
@@ -100,7 +100,7 @@
     },
         {
       "id": 8,
-      "category": "Realfilm",
+      "category": "Animation",
       "title": "Halle besser machen",
       "description": "Kickoff-Clip zum Projektstart von \"Halle besser machen\", einer Initiative, die 2020 Hallenser dazu aufrief, Ideen für ein verbessertes Miteinander in der Stadt zu entwickeln. Die Plattform ermöglichte Ideeneinreichungen und Diskussionen über verschiedene Themen wie Bildung, Kultur, Umwelt und mehr.",
       "credits": "<br>Produktion und Animation:</br> Falk Schuster <br>Grafik:</br> Robert Voss <br>Animation & Compositing:</br> Julian Quitsch",
@@ -109,6 +109,22 @@
       "thumbnail": "https://julianquitsch.de/images/hbm/hbm_thumbnail.webp",
       "image": "",
       "video": "https://vimeo.com/886614434"
+    },
+        {
+      "id": 9,
+      "category": "Animation",
+      "title": "HELENE - WIP",
+      "description": "\"Helene\" ist eine universell-aktuelle Geschichte über das Leben einer jungen Frau, das von Verlust und Flucht durch den Krieg geprägt wurde. Etabliert in der unbeschwerten Kindheit lenken die Erinnerungen über zum Kriegsbeginn, der vorrückenden Ostfront und der Flucht im eisigen Winter 1945.",
+      "credits": "<br>Buch:</br> Falk Schuster <br>Regie:</br> Tim Romanowsky <br>Compositing & Colorgrading:</br> Julian Quitsch",
+      "lenght": "15 Minuten",
+      "year": "Animierter Dokumentarfilm, 2023",
+      "thumbnail": "https://julianquitsch.de/images/helene/helene01.webp",
+      "image": ["https://julianquitsch.de/images/helene/helene02.webp",
+                "https://julianquitsch.de/images/helene/helene03.webp",
+                "https://julianquitsch.de/images/helene/helene04.webp",
+                "https://julianquitsch.de/images/helene/helene05.webp"
+                ],
+      "video": ""
     }
   ],
   "festivals": [
