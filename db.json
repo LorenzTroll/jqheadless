@@ -45,7 +45,19 @@
                 "https://julianquitsch.de/images/anima/anima11.webp",
                 "https://julianquitsch.de/images/anima/anima12.webp"
                 ],
-      "video": "https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4"
+      "video": ""
+    },
+             {
+      "id": 4,
+      "category": "Animation",
+      "title": "Biegen & Brechen",
+      "description": "Der Film erzählt die erschütternde Geschichte von Alex, der in den 1980er Jahren in der DDR aufwächst. Seine Mutter wird wegen ihrer Kritik am Staat von ihm getrennt. Er landet im Kinderheim und flieht wiederholt, bis er im Jugendwerkhof Torgau landet, einer Anstalt, schlimmer als ein Gefängnis. Der Film nutzt assoziativ montierte Animationen, um Alex' traumatische Erfahrungen zu illustrieren und zeigt die Grausamkeiten eines Systems, das versuchte, junge Menschen zu brechen.",
+      "credits": "<br>Buch:</br> Mike Plitt <br>Regie:</br> Falk Schuster & Mike Plitt <br>Animation:</br> Falk Schuster & Alexander Schmidt <br>Compositing und Digitale Animation:</br> Julian Quitsch <br>Sound & Musik:</br> Hannes Schulze <br>Produktion:</br> mobydok",
+      "lenght": "8 Minuten",
+      "year": "Animadok, 2022",
+      "thumbnail": "https://julianquitsch.de/images/biegen_und_brechen/biegen_brechen_thumbnail.webp",
+      "image": "",
+      "video": "https://vimeo.com/868453013"
     }
   ],
   "festivals": [
