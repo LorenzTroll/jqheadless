@@ -109,22 +109,6 @@
       "thumbnail": "https://julianquitsch.de/images/hbm/hbm_thumbnail.webp",
       "image": "",
       "video": "https://vimeo.com/886614434"
-    },
-        {
-      "id": 9,
-      "category": "Animation",
-      "title": "HELENE - WIP",
-      "description": "\"Helene\" ist eine universell-aktuelle Geschichte über das Leben einer jungen Frau, das von Verlust und Flucht durch den Krieg geprägt wurde. Etabliert in der unbeschwerten Kindheit lenken die Erinnerungen über zum Kriegsbeginn, der vorrückenden Ostfront und der Flucht im eisigen Winter 1945.",
-      "credits": "<br>Buch:</br> Falk Schuster <br>Regie:</br> Tim Romanowsky <br>Compositing & Colorgrading:</br> Julian Quitsch",
-      "lenght": "15 Minuten",
-      "year": "Animierter Dokumentarfilm, 2023",
-      "thumbnail": "https://julianquitsch.de/images/helene/helene01.webp",
-      "image": ["https://julianquitsch.de/images/helene/helene02.webp",
-                "https://julianquitsch.de/images/helene/helene03.webp",
-                "https://julianquitsch.de/images/helene/helene04.webp",
-                "https://julianquitsch.de/images/helene/helene05.webp"
-                ],
-      "video": ""
     }
   ],
   "festivals": [
