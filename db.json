@@ -8,7 +8,7 @@
       "year": "Animadok, 2020",
       "description": "Der animierte Dokumentarfilm 'Hotel Astoria' enthüllt die geheime Welt eines legendären Leipziger Hotels während der DDR-Ära. Zwischen Luxus und Mangelwirtschaft, wo Geschäftsleute, Politiker und sogar die Stasi sich trafen, erweckt der Film mit Archivmaterial und Animationen dieses historische Stück Leipzig zum Leben. Es ist eine Geschichte voller Widersprüche und persönlicher Erinnerungen, die die Vergangenheit auf faszinierende Weise zum Leben erweckt.",
       "credits": "Drehbuch: Alina Cyranek Regie: Alina Cyranek & Falk Schuster Produktion: hug films Layout: Tim Romanowsky, Alexander Schmidt, Falk Schuster Animation: Julian Quitsch, Tim Romanowsky, Falk Schuster, Alexander Schmidt Compositing, Colorgrading: Julian Quitsch",
-      "thumbnail": "https://images.unsplash.com/photo-1617195737496-bc30194e3a19?q=80&w=2835&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "thumbnail": "https://julianquitsch.de/images/hotel_astoria/astoria_thumbnail.webp",
       "image": "", 
       "video": "https://player.vimeo.com/video/868452195"
     },
@@ -35,11 +35,18 @@
       "credits": "<b>Buch & Regie:</b> Uli Decker <b>Produktion:</b> Flare Film in Koproduktion mit ZDF/ Das kleine Fernsehspiel <b>Animation:</b> Falk Schuster, Tim Romanowsky, Alexander Schmidt, Julian Quitsch <b>Compositing und Digitale Animation:</b> Julian Quitsch",
       "lenght": "",
       "year": "2020",
-      "link": "https://www.bauhaus-dessau.de/de/index.html",
-      "thumbnail": "https://images.unsplash.com/photo-1610847455028-9e55e62bac33?q=80&w=2940&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-      "image": ["https://plus.unsplash.com/premium_photo-1675855542727-da00f9c19201?auto=format&fit=crop&q=80&w=2787&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "https://images.unsplash.com/photo-1597694491574-740e696ce5dc?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
-                "https://images.unsplash.com/photo-1578950112813-a699da44bf23?q=80&w=2787&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+      "thumbnail": "https://julianquitsch.de/images/anima/anima01.webp",
+      "image": ["https://julianquitsch.de/images/anima/anima02.webp",
+                "https://julianquitsch.de/images/anima/anima03.webp",
+                "https://julianquitsch.de/images/anima/anima04.webp",
+                "https://julianquitsch.de/images/anima/anima05.webp",
+                "https://julianquitsch.de/images/anima/anima06.webp",
+                "https://julianquitsch.de/images/anima/anima07.webp",
+                "https://julianquitsch.de/images/anima/anima08.webp",
+                "https://julianquitsch.de/images/anima/anima09.webp",
+                "https://julianquitsch.de/images/anima/anima10.webp",
+                "https://julianquitsch.de/images/anima/anima11.webp",
+                "https://julianquitsch.de/images/anima/anima12.webp"
                 ],
       "video": "https://archive.org/download/ElephantsDream/ed_1024_512kb.mp4"
     }
