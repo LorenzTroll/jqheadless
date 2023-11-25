@@ -91,9 +91,12 @@
       "credits": "<br>Buch & Regie:</br> Alina Cyranek <br>Voiceover:</br> Sandra Hüller <br>Choreografie:</br> Sebastian Weber <br>Bildgestaltung:</br> Tim Pfautsch <br>Animation:</br> Aline Helmcke <br>Compositing & Colorgrading:</br> Julian Quitsch <br>Sounddesign und Tonmischung:</br> Florian Marquardt <br>Musik:</br> Freya Arde",
       "lenght": "85 Minuten",
       "year": "Dokumentarfilm, in Produktion, 2023",
-      "thumbnail": "https://julianquitsch.de/images/erna/erna_thumbnail.webp",
-      "image": "",
-      "video": "https://vimeo.com/886566963"
+      "thumbnail": "https://julianquitsch.de/images/fassaden/fas_k1t_v02.webp",
+      "image": ["hhttps://julianquitsch.de/images/fassaden/fas_k3a_v03_01.webp",
+                "https://julianquitsch.de/images/fassaden/fas_k3a_v03_02.webp",
+                "https://julianquitsch.de/images/fassaden/fas_platte_v02.webp"
+                ],
+      "video": ""
     }
   ],
   "festivals": [
