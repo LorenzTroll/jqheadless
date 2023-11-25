@@ -97,6 +97,18 @@
                 "https://julianquitsch.de/images/fassaden/fas_platte_v02.webp"
                 ],
       "video": ""
+    },
+        {
+      "id": 8,
+      "category": "Realfilm",
+      "title": "Halle besser machen",
+      "description": "Kickoff-Clip zum Projektstart von \"Halle besser machen\", einer Initiative, die 2020 Hallenser dazu aufrief, Ideen für ein verbessertes Miteinander in der Stadt zu entwickeln. Die Plattform ermöglichte Ideeneinreichungen und Diskussionen über verschiedene Themen wie Bildung, Kultur, Umwelt und mehr.",
+      "credits": "<br>Produktion und Animation:</br> Falk Schuster <br>Grafik:</br> Robert Voss <br>Animation & Compositing:</br> Julian Quitsch",
+      "lenght": "1 Minute",
+      "year": "2020",
+      "thumbnail": "https://julianquitsch.de/images/fassaden/fas_k1t_v02.webp",
+      "image": "",
+      "video": "https://vimeo.com/886614434"
     }
   ],
   "festivals": [
