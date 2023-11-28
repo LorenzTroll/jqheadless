@@ -7,9 +7,9 @@
       "lenght": "28 Minuten",
       "year": "Animadok, 2020",
       "description": "Der animierte Dokumentarfilm 'Hotel Astoria' enthüllt die geheime Welt eines legendären Leipziger Hotels während der DDR-Ära. Zwischen Luxus und Mangelwirtschaft, wo Geschäftsleute, Politiker und sogar die Stasi sich trafen, erweckt der Film mit Archivmaterial und Animationen dieses historische Stück Leipzig zum Leben. Es ist eine Geschichte voller Widersprüche und persönlicher Erinnerungen, die die Vergangenheit auf faszinierende Weise zum Leben erweckt.",
-      "credits": "Drehbuch: Alina Cyranek Regie: Alina Cyranek & Falk Schuster Produktion: hug films Layout: Tim Romanowsky, Alexander Schmidt, Falk Schuster Animation: Julian Quitsch, Tim Romanowsky, Falk Schuster, Alexander Schmidt Compositing, Colorgrading: Julian Quitsch",
+      "credits": "<span>Drehbuch:</span> Alina Cyranek <span>Regie:</span> Alina Cyranek & Falk Schuster <span>Produktion:</span> hug films <span>Layout:</span> Tim Romanowsky, Alexander Schmidt, Falk Schuster <span>Animation:</span> Julian Quitsch, Tim Romanowsky, Falk Schuster, Alexander Schmidt <span>Compositing, Colorgrading:</span> Julian Quitsch",
       "thumbnail": "https://julianquitsch.de/images/hotel_astoria/astoria_thumbnail.webp",
-      "image": "", 
+      "image": "",
       "video": "https://player.vimeo.com/video/868452195"
     },
     {
@@ -19,7 +19,7 @@
       "lenght": "4:49 Minuten",
       "year": "2017",
       "description": "Ein Kurzfilm/Erklärfilm für das Abgeordnetenhaus Berlin. Das Abgeordnetenhaus kurz erklärt: was ist das Abgeordnetenhaus von Berlin eigentlich, was haben die Abgeordneten für Aufgaben – und warum Vögel kein Bier trinken sollten.",
-      "credits": "Autoren: Alexander Lahl und Max Mönch Regie, Layout, Animation: Falk Schuster Compositing und Digitale Animation: Julian Quitsch Musik und Sound: Hannes Schulze Produktion: Die Kulturingenieure Auftraggeber: Abgeordnetenhaus Berlin",
+      "credits": "<span>Autoren:</span> Alexander Lahl und Max Mönch <span>Regie, Layout, Animation:</span> Falk Schuster <span>Compositing und Digitale Animation:</span> Julian Quitsch <span>Musik und Sound:</span> Hannes Schulze <span>Produktion:</span> Die Kulturingenieure <span>Auftraggeber:</span> Abgeordnetenhaus Berlin",
       "thumbnail": "https://julianquitsch.de/images/abgeordneten/abgeordneten_thumbnail.webp",
       "image": "",
       "video": "https://player.vimeo.com/video/868449137"
@@ -57,7 +57,7 @@
       "year": "Animadok, 2022",
       "thumbnail": "https://julianquitsch.de/images/biegen_und_brechen/biegen_brechen_thumbnail.webp",
       "image": "",
-      "video": "https://player.vimeo.com/video/868453013"
+      "video": "https://vimeo.com/868453013"
     },
         {
       "id": 5,
@@ -69,26 +69,26 @@
       "year": "Imagefilm, 2018",
       "thumbnail": "https://julianquitsch.de/images/solar/ctf_thumbnail.webp",
       "image": "",
-      "video": "https://player.vimeo.com/video/886359022"
+      "video": "https://vimeo.com/886359022"
     },
         {
       "id": 6,
       "category": "Animation",
       "title": "Erna räumt auf",
       "description": "Teaser für das Animations-Serienkonzept Erna räumt auf Die Geschichte handelt von einem erfinderischen Containerschiff namens Erna, das gemeinsam mit seinen Freunden die Ozeane von Plastikmüll säubert und dabei auf viele Abenteuer stößt.",
-      "credits": "<br>Idee und Drehbuch:</br> Viola Lippmann <br>Regie:</br> Falk Schuster <br>Layout:</br> Viola Lippmann, Falk Schuster <br>Animation:</br> Julian Quitsch, Falk Schuster <br>Compositing & Grading:</br> Julian Quitsch",
+      "credits": "<span>Idee und Drehbuch:</span> Viola Lippmann <span>Regie:</span> Falk Schuster <span>Layout:</span> Viola Lippmann, Falk Schuster <span>Animation:</span> Julian Quitsch, Falk Schuster <span>Compositing & Grading:</span> Julian Quitsch",
       "lenght": "0:45 Minuten",
       "year": "digitaler Cut-Out, Zeichentrick",
       "thumbnail": "https://julianquitsch.de/images/erna/erna_thumbnail.webp",
       "image": "",
-      "video": "https://player.vimeo.com/video/886566963"
+      "video": "https://vimeo.com/886566963"
     },
         {
       "id": 7,
       "category": "Realfilm",
       "title": "Fassaden - WIP",
       "description": "\"Fassaden\" beleuchtet das düstere Thema häuslicher Gewalt gegen Frauen. Er folgt der Geschichte einer Frau, die sich aus einer langjährigen gewalttätigen Beziehung befreit. Dabei wird nicht nur die individuelle Geschichte beleuchtet, sondern auch die strukturellen Probleme in Politik und Gesellschaft, die solche Gewalttaten begünstigen und das Leid der Betroffenen oft ignoriert.",
-      "credits": "<br>Buch & Regie:</br> Alina Cyranek <br>Voiceover:</br> Sandra Hüller <br>Choreografie:</br> Sebastian Weber <br>Bildgestaltung:</br> Tim Pfautsch <br>Animation:</br> Aline Helmcke <br>Compositing & Colorgrading:</br> Julian Quitsch <br>Sounddesign und Tonmischung:</br> Florian Marquardt <br>Musik:</br> Freya Arde",
+      "credits": "<span>Buch & Regie:</span> Alina Cyranek <span>Voiceover:</span> Sandra Hüller <span>Choreografie:</span> Sebastian Weber <span>Bildgestaltung:</span> Tim Pfautsch <span>Animation:</span> Aline Helmcke <span>Compositing & Colorgrading:</span> Julian Quitsch <span>Sounddesign und Tonmischung:</span> Florian Marquardt <span>Musik:</span> Freya Arde",
       "lenght": "85 Minuten",
       "year": "Dokumentarfilm, in Produktion, 2023",
       "thumbnail": "https://julianquitsch.de/images/fassaden/fas_k1t_v02.webp",
@@ -103,17 +103,97 @@
       "category": "Animation",
       "title": "Halle besser machen",
       "description": "Kickoff-Clip zum Projektstart von \"Halle besser machen\", einer Initiative, die 2020 Hallenser dazu aufrief, Ideen für ein verbessertes Miteinander in der Stadt zu entwickeln. Die Plattform ermöglichte Ideeneinreichungen und Diskussionen über verschiedene Themen wie Bildung, Kultur, Umwelt und mehr.",
-      "credits": "<br>Produktion und Animation:</br> Falk Schuster <br>Grafik:</br> Robert Voss <br>Animation & Compositing:</br> Julian Quitsch",
+      "credits": "<span>Produktion und Animation:</span> Falk Schuster <span>Grafik:</span> Robert Voss <span>Animation & Compositing:</span> Julian Quitsch",
       "lenght": "1 Minute",
       "year": "2020",
       "thumbnail": "https://julianquitsch.de/images/hbm/hbm_thumbnail.webp",
       "image": "",
-      "video": "https://player.vimeo.com/video/886614434"
+      "video": "https://vimeo.com/886614434"
+    },
+        {
+      "id": 9,
+      "category": "Animation",
+      "title": "HELENE - WIP",
+      "description": "\"Helene\" ist eine universell-aktuelle Geschichte über das Leben einer jungen Frau, das von Verlust und Flucht durch den Krieg geprägt wurde. Etabliert in der unbeschwerten Kindheit lenken die Erinnerungen über zum Kriegsbeginn, der vorrückenden Ostfront und der Flucht im eisigen Winter 1945.",
+      "credits": "<span>Buch:</span> Falk Schuster <span>Regie:</span> Tim Romanowsky <span>Compositing & Colorgrading:</span> Julian Quitsch",
+      "lenght": "15 Minuten",
+      "year": "Animierter Dokumentarfilm, 2023",
+      "thumbnail": "https://julianquitsch.de/images/helene/helene01.webp",
+      "image": ["https://julianquitsch.de/images/helene/helene02.webp",
+                "https://julianquitsch.de/images/helene/helene03.webp",
+                "https://julianquitsch.de/images/helene/helene04.webp",
+                "https://julianquitsch.de/images/helene/helene05.webp"
+                ],
+      "video": ""
+    },
+        {
+      "id": 10,
+      "category": "Animation",
+      "title": "Der Inselfuchs",
+      "description": "\"Der Inselfuchs\" ist ein transmediales Kindermedienprojekt, das als virtuell handgezeichneter Animationsfilm und App für Vorschulkinder konzipiert ist. Es handelt von einem cleveren Fuchs, einem Jäger und einer Gemeinschaft von Waldtieren, die durch listige Manöver Jäger und Fuchs in eine verzwickte Situation bringen. Die Geschichte verbindet traditionelle Fabelstrukturen mit modernen Elementen.",
+      "credits": "<span>Buch & Regie:</span> Falk Schuster <span>Layout:</span> Alexander Schmidt, Falk Schuster <span>Animation:</span> Eliza Todorova, Nicole Bauer, Falk Schuster <span>Compositing & Colorgrading:</span> Julian Quitsch <span>Musik & Sound:</span> Florian Marquardt",
+      "lenght": "6:30 Minuten",
+      "year": "Animationsfilm, 2022",
+      "thumbnail": "https://julianquitsch.de/images/inselfuchs/inselfuchs03.webp",
+      "image": ["https://julianquitsch.de/images/inselfuchs/inselfuchs01.webp",
+                "https://julianquitsch.de/images/inselfuchs/inselfuchs02.webp",
+                "https://julianquitsch.de/images/inselfuchs/inselfuchs04.webp",
+                "https://julianquitsch.de/images/inselfuchs/inselfuchs05.webp"
+                ],
+      "video": ""
+    },
+        {
+      "id": 11,
+      "category": "Animation",
+      "title": "jPattersson",
+      "description": "Animationen für den Dub-Techno-Musiker jPattersson",
+      "credits": "Mood (2020) <span>Layout:</span> Elli Jäger <span>Animation:</span> Julian Quitsch <span>Logo-Animation Layout:</span> Elli Jäger <span>Animation:</span> Julian Quitsch On The Fly (2023) <span>Layout:</span> Paula Fraile <span>Animation:</span> Julian Quitsch",
+      "lenght": "",
+      "year": "2020/2023",
+      "thumbnail": "https://julianquitsch.de/images/pattersson/jpattersson_thumbnail.webp",
+      "image": "",
+      "video": "https://vimeo.com/886644395"
+    },
+        {
+      "id": 12,
+      "category": "Animation",
+      "title": "Idents für KiKA",
+      "description": "Sechs verschiedene animierter Senderlogos zum Thema Frühling und Ostern für den Kinderkanal von ARD und ZDF.",
+      "credits": "<span>Regie, Layout, Story:</span> Falk Schuster, Tim Romanowsky, Alexander Schmidt <span>Animation:</span> Falk Schuster <span>Compositing & VFX:</span> Julian Quitsch",
+      "lenght": "1:40 Minuten",
+      "year": "2017",
+      "thumbnail": "https://julianquitsch.de/images/kika/kika_thumbnail.webp",
+      "image": "",
+      "video": "https://vimeo.com/886645182"
+    },
+        {
+      "id": 13,
+      "category": "Animation",
+      "title": "Die Weite suchen",
+      "description": "Prädikat \"besonders wertvoll\" der Filmbewertungsstelle Animierter Dokumentarfilm, der die Reise einer Familie aus dem Bezirk Leipzig im Sommer 1987 in den Urlaub begleitet. Sie fahren mit einem Trabant und einem Anhänger zu einer Privatunterkunft nahe der damaligen Grenze zur Bundesrepublik. Der Film bietet einen Einblick in den DDR-Urlaubsalltag mit seinen Kuriositäten und den Begebenheiten nahe der Westgrenze. Durch eine Mischung aus persönlichen Erinnerungen und dokumentarischen Fakten entsteht ein animiertes Reisetagebuch, das diese Zeit in einer äußerst präzisen und authentischen Weise wiedergibt.",
+      "credits": "<span>Drehbuch, Regie und Animation:</span> Falk Schuster <span>Compositing, VFX, Colorgrading:</span> Julian Quitsch",
+      "lenght": "29 Minuten",
+      "year": "Animadok, 2015",
+      "thumbnail": "hhttps://julianquitsch.de/images/weitesuchen/weite_suchen_thumbnail.webp",
+      "image": "",
+      "video": "https://vimeo.com/886651292"
+    },
+        {
+      "id": 14,
+      "category": "Animation",
+      "title": "Woche 37",
+      "description": "In Europa gibt es seit neun Monaten keinen Strom. Der Film folgt einer jungen Frau auf dem Weg durch ihren Alltag in einer Großstadt mit neu etablierten Routinen, Abläufen und Beziehungen.",
+      "credits": "<span>Idee und Drehbuch:</span> Julian Quitsch, Matthias Ritzmann, Oliver Müller <span>Regie:</span> Julian Quitsch & Matthias Ritzmann <span>Kamera:</span> Matthias Ritzmann, Julian Quitsch, Denis Herzog <span>Produktionsleitung:</span> Agnes Fischer",
+      "lenght": "11 Minuten",
+      "year": "Kurzfilm, 2016",
+      "thumbnail": "https://julianquitsch.de/images/woche37/woche37_thumbnail.webp",
+      "image": "",
+      "video": "https://vimeo.com/187343509"
     }
   ],
   "festivals": [
     {
-      "name": ["Filmfestival A","Filmfestival B", "Filmfestival C"],
+      "name": ["Dok Leipzig","Deutscher Wirtschaftsfilmpreis", "Bambi"],
       "linkA": "https://www.dok-leipzig.de/",
       "linkB": "https://www.bmwk.de/Redaktion/DE/Wettbewerb/deutscher-wirtschaftsfilmpreis.html",
       "linkC": "https://www.bambi.de/"
